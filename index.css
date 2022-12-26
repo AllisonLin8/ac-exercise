@@ -1,0 +1,23 @@
+#user-data-panel .card:hover {
+    box-shadow: 5px 5px 7px 2px lightblue;
+    transition: .3s;
+}
+
+#user-data-panel .card img {
+    cursor: pointer;
+}
+
+#user-data-panel .card .btn {
+    font-size: 24px;
+    transition: .1s;
+}
+
+#user-data-panel .card .btn:hover {
+    font-size: 28px;
+    transition: .1s;
+}
+
+#button-of-arrangement {
+    cursor: pointer;
+    color: #999;
+}
